@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Pragmatic Ways
+tagline:      Finding the practical ways of success. 
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Adam Allard
+  url:        http://pragmaticways.com
 
 # Gems
 gems:

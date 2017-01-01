@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "How to get out of the 'Hello World!' phase"
-subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
+subtitle:   "You know the basics, but now what?"
+date:       2016-07-29 12:00:00
 author:     "Adam Allard"
 header-img: "img/hello-world-post.jpg"
 ---

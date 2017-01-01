@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Pragmatic Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: adam@pragmaticways.com
+copyright_name: Pragmatic Ways
+description: "Finding the practical ways of success."
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: Adam_Allard_
+github_username:  amallard
+facebook_username:  adam.allard.codes
+email_username:  adam.allard@live.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
